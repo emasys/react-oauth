@@ -1,5 +1,5 @@
 {
-  "name": "@react-oauth/google-fix",
+  "name": "@react-oauth/monorepo",
   "private": true,
   "description": "Monorepo for OAuth2 providers in React 🚀",
   "workspaces": [
